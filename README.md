@@ -6,7 +6,7 @@ Simple Tabs Switcher. Switches tabs with content with fade animation.
 
 ## Customization
 ### HTML-structure:
-```
+```html
 <div class="tabcontainer">
         <div class="tabcontent">
             <img src="tab1.webp" alt="tab1">
@@ -44,7 +44,7 @@ Simple Tabs Switcher. Switches tabs with content with fade animation.
     </div>
 ```
 ### CSS-styles:
-```
+```css
  .show {
         display: block;
 }
